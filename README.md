@@ -1,7 +1,2 @@
-# Belajar Sendiri
-- 1
-- 2
-- 3
-1. -
-2. -
-3. -
+# Belajar Kolaborasi
+Belajar *GitHub* itu _bagus_ untuk kesehatan.
