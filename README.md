@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-Belajar **GitHub** itu _bagus_ untuk keuangan dan kesehatan jasmani dan rohani.
+Belajar **GitHub** itu _bagus_ untuk kesehatan jasmani dan rohani.
