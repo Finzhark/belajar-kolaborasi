@@ -1,2 +1,2 @@
 # Belajar Kolaborasi
-Belajar *GitHub* itu bagus untuk _kesehatan_.
+Belajar **GitHub** itu bagus untuk _kesehatan_.
